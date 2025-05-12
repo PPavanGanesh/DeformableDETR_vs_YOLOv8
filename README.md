@@ -13,6 +13,8 @@ This project evaluates and compares the performance of YOLOv8x and Deformable DE
 - **Detection Quality**: YOLOv8 detects 2.2× more objects per image with higher confidence scores
 - **Consistency**: YOLOv8 shows more consistent performance across diverse images
 
+  ![image](https://github.com/user-attachments/assets/cfff40d1-9db7-412e-b408-8b560f732bb1)
+
 ## Repository Contents
 
 - `Final_Analysis.py`: Main script for running comparative tests
