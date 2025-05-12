@@ -1,0 +1,16 @@
+{
+    "detr": {
+        "avg_inference_time": 0.44896231998096814,
+        "avg_fps": 2.7545169731042805,
+        "avg_detections": 2.6363636363636362,
+        "avg_memory_mb": 1656.0488725142045,
+        "avg_confidence": 0.7277393979685648
+    },
+    "yolo": {
+        "avg_inference_time": 0.11016290838068182,
+        "avg_fps": 17.506829291675263,
+        "avg_detections": 5.7272727272727275,
+        "avg_memory_mb": 647.6064453125,
+        "avg_confidence": 0.8549970173775548
+    }
+}
